@@ -1,4 +1,4 @@
-**FREE: BLENDER ADDONS**
+# FREE: BLENDER ADDONS
 
 - **Sollumz** - **[GitHub](https://github.com/Sollumz/Sollumz)**
 - **Vertex Color Master** - **[GitHub](https://github.com/andyp123/blender_vertex_color_master)**
@@ -12,6 +12,6 @@
 - **Node Wrangler** - Built in Blender
 - **Copy Attributes Menu** - Built in Blender
 
-**FREE: APPS**
+# FREE: APPS
 - **CodeWalker** - **[5mods](https://pl.gta5-mods.com/tools/codewalker-gtav-interactive-3d-map)**
 - **Folders2YTD** - **[5mods](https://pl.gta5-mods.com/tools/folders2ytd)**

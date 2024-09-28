@@ -11,12 +11,18 @@
 > Connect Face - Built in Blender
 
 > Copy Attributes Menu - Built in Blender
+
 > Material Utilities - Built in Blender
+
 > Collection Manager - Built in Blender
+
 > F2 - Built in Blender
+
 > Node Wrangler - Built in Blender
+
 > Copy Attributes Menu - Built in Blender
 
 # FREE: APPS
 > CodeWalker - **[5mods](https://pl.gta5-mods.com/tools/codewalker-gtav-interactive-3d-map)**
+
 > Folders2YTD - **[5mods](https://pl.gta5-mods.com/tools/folders2ytd)**

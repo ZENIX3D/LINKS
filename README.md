@@ -22,6 +22,8 @@
 
 > Copy Attributes Menu - Built in Blender
 
+# VIP: BLENDER ADDONS
+
 # FREE: APPS
 > CodeWalker - **[5mods](https://pl.gta5-mods.com/tools/codewalker-gtav-interactive-3d-map)**
 

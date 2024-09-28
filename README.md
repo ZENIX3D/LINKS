@@ -1,10 +1,15 @@
 # FREE: BLENDER ADDONS
 
 > Sollumz - **[GitHub](https://github.com/Sollumz/Sollumz)**
+
 > Vertex Color Master - **[GitHub](https://github.com/andyp123/blender_vertex_color_master)**
+
 > Connect Face - **[Gumroad](https://kushiro.gumroad.com/l/connect_face)**
+
 > LoopTools - Built in Blender
+
 > Connect Face - Built in Blender
+
 > Copy Attributes Menu - Built in Blender
 > Material Utilities - Built in Blender
 > Collection Manager - Built in Blender

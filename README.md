@@ -22,8 +22,6 @@
 
 > Copy Attributes Menu - Built in Blender
 
-# VIP: BLENDER ADDONS
-
 # FREE: APPS
 > Blender - **[Blender](https://www.blender.org/)**
 

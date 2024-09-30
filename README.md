@@ -25,6 +25,11 @@
 # VIP: BLENDER ADDONS
 
 # FREE: APPS
+> Blender - **[Blender](https://www.blender.org/)**
+
 > CodeWalker - **[5mods](https://pl.gta5-mods.com/tools/codewalker-gtav-interactive-3d-map)**
 
 > Folders2YTD - **[5mods](https://pl.gta5-mods.com/tools/folders2ytd)**
+
+# PAIN APPS
+> Adobe Substance 3D Texture - **[Adobe](https://www.adobe.com/pl/creativecloud/plans.html?plan=individual&filter=3dar)**

@@ -29,5 +29,7 @@
 
 > Folders2YTD - **[5mods](https://pl.gta5-mods.com/tools/folders2ytd)**
 
+> Bridge - **[Quixel](https://quixel.com/bridge)**
+
 # PAIN: APPS
 > Adobe Substance 3D Texture - **[Adobe](https://www.adobe.com/pl/creativecloud/plans.html?plan=individual&filter=3dar)**

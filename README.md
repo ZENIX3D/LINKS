@@ -31,5 +31,7 @@
 
 > Bridge - **[Quixel](https://quixel.com/bridge)**
 
+> OpenIV - **[OpenIV](https://openiv.com/)**
+
 # PAIN: APPS
 > Adobe Substance 3D Texture - **[Adobe](https://www.adobe.com/pl/creativecloud/plans.html?plan=individual&filter=3dar)**
